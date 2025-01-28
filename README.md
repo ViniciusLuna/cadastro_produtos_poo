@@ -8,10 +8,10 @@ python -m pip install -r bundle.txt
 
 # Como rodar
 ```sh
-python migrate.py
+python produtos.py
 ```
 
 # Como criar o banco de dados
 ```sh
-
+python migrate.py
 ```
